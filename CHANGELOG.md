@@ -5,7 +5,7 @@
 
 * Supports Android 11.
 * Supports Brightcove Player 6.14.0.
-* Supports auto collection of Dropped Frames during playback (Core SDK versiob 4.0.10.x and above).
+* Supports auto collection of Dropped Frames during playback (Core SDK version 4.0.10.x and above).
 * Enhanced player state reporting.
 
 ## 4.0.1.1 (24/JUN/2020)
