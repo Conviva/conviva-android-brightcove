@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.3.54 (30/AUG/2020)
+
+* Supports Brightcove Player 6.16.5.
+
 ## 4.0.2.38 (05/OCT/2020)
 
 * Supports Android 11.
