@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 4.0.3.54 (30/AUG/2020)
+## 4.0.3.54 (30/AUG/2021)
 
 * Supports Brightcove Player 6.16.5.
 
