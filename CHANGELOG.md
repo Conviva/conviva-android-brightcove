@@ -1,5 +1,17 @@
 
 # Changelog
+## 4.0.5 (6/May/2022)
+
+* Added log messages for bit rate collection.
+* Supports Brightcove version 6.18.2
+* Supports from CoreSDK 4.0.21
+
+## 4.0.4 (22/MAR/2022)
+
+* Supports Brightcove library version 6.18.0
+* Supports Conviva Android Core SDK 4.0.18
+* Improved bit rate reporting using peak and average bit rate fields.
+* Removes legacy Brightcove API’s.
 
 ## 4.0.3.54 (30/AUG/2021)
 
