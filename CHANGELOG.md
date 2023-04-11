@@ -1,5 +1,19 @@
 
 # Changelog
+
+## 4.0.8 (11/Apr/2023)
+
+* Supports auto collection of audio track changes, subtitle track changes and closed caption track changes.
+
+## 4.0.7 (27/Dec/2022)
+
+* Supports Brightcove version 7.1.4.
+
+## 4.0.6 (7/Oct/2022)
+
+* Supports Brightcove version 7.1.1
+* Supports Android 13
+
 ## 4.0.5 (6/May/2022)
 
 * Added log messages for bit rate collection.
