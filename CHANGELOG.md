@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.9 (08/Jun/2023)
+
+* Supports Brightcove version 8.1.0.
+
 ## 4.0.8 (11/Apr/2023)
 
 * Supports auto collection of audio track changes, subtitle track changes and closed caption track changes.
