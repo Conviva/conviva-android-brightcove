@@ -8,7 +8,7 @@
 ## Gradle dependency
     Add the following line to app's build.gradle file.
     
-    implementation 'com.conviva.sdk:conviva-brightcove-sdk:4.0.2.38'
+    implementation 'com.conviva.sdk:conviva-brightcove-sdk:4.0.9'
     
 ## Offline library
     Place the Conviva library in app's 'lib' folder and add the following line to app's build.gradle file.
@@ -16,15 +16,15 @@
     implementation fileTree(dir: 'libs',include:['*.aar'])
     
 ## Support Android Version    
-    Android 11
+    Android 12
 
 ## Support Brightcove SDK Version    
-    Brightcove 6.14.0
+    Brightcove 8.1.0
 
 ## Support Conviva Android CoreSDK Version
-    Conviva Android CoreSDK v4.0.10.141
-    https://github.com/Conviva/conviva-android-coresdk/releases/tag/v4.0.10.141
+    Conviva Android CoreSDK v4.0.31
+    https://github.com/Conviva/conviva-android-coresdk/releases/tag/v4.0.31
 
 ## Note:  
 
-* Refer https://community.conviva.com/ for integration guidelines.
+* Refer https://pulse.conviva.com/learning-center/content/main/main.htm for integration guidelines.
