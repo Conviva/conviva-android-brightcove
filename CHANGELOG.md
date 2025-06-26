@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.12 (26/JUN/2025)
+- Supports Android 16
+- Supports Brightcove version 10.1.0
+- 
 ## 4.0.11 (9/APR/2025)
 - Supports Android 15
 - Supports Brightcove version 10.0.1 (includes the support for Media3 ExoPlayer)
